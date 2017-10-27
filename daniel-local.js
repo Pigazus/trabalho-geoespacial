@@ -19,7 +19,7 @@ db.alunos.insert( {
    category: "alunos"
 });
 db.alunos.insert( {
-   name: "Alberto e André",
+   name: "Alberto",
    location: { type: "Point", coordinates: [-43.3179225 ,-15.8057438  ] },
    category: "alunos"
 });
